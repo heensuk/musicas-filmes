@@ -40,14 +40,14 @@ A aplicação estará disponível em `http://localhost:5173`.
 
 ## Deploy
 
-Este projeto foi pensado para GitHub Pages ou qualquer serviço estático.
+O repositório já está configurado com GitHub Pages via Actions. A cada push em `main`, o workflow `Deploy` gera o build (`npm run build`) e publica automaticamente em **https://heensuk.github.io/musicas-filmes/**.
+
+Para testar o build localmente:
 
 ```bash
 npm run build
 npm run preview # opcional para conferir o build
 ```
-
-Em seguida, publique o conteúdo da pasta `dist/`.
 
 ## Próximos passos sugeridos
 
