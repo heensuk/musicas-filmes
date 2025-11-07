@@ -52,7 +52,7 @@ const contributeText = document.createElement("p");
 contributeText.innerHTML =
   "Encontrou uma aparição nova ou quer corrigir algo? Abra um PR no GitHub atualizando <code>src/data/aparicoes.json</code>.";
 const contributeButton = document.createElement("a");
-contributeButton.href = "https://github.com/seu-usuario/seu-repo";
+contributeButton.href = "https://github.com/heensuk/musicas-filmes";
 contributeButton.target = "_blank";
 contributeButton.rel = "noreferrer";
 contributeButton.className = "contribute__button";
