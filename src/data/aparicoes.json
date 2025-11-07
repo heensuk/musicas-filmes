@@ -1,0 +1,348 @@
+[
+  {
+    "tipo": "musica",
+    "termo": "Stayin' Alive",
+    "slug": "stayin-alive",
+    "resultados": [
+      {
+        "titulo": "Os Embalos de Sábado à Noite",
+        "ano": 1977,
+        "papel": "trilha sonora principal",
+        "cena": "John Travolta caminha pelas ruas do Brooklyn na abertura",
+        "fonte": "Tunefind"
+      },
+      {
+        "titulo": "Shrek 2",
+        "ano": 2004,
+        "papel": "cena da festa final",
+        "cena": "Fada Madrinha e Burro cantam no baile",
+        "fonte": "Créditos do filme"
+      }
+    ]
+  },
+  {
+    "tipo": "musica",
+    "termo": "The Killing Moon",
+    "slug": "the-killing-moon",
+    "resultados": [
+      {
+        "titulo": "Donnie Darko",
+        "ano": 2001,
+        "papel": "tema recorrente",
+        "cena": "Abertura com Donnie de bicicleta ao amanhecer",
+        "tempo": "00:03:20",
+        "fonte": "Tunefind"
+      }
+    ]
+  },
+  {
+    "tipo": "musica",
+    "termo": "Where Is My Mind?",
+    "slug": "where-is-my-mind",
+    "resultados": [
+      {
+        "titulo": "Clube da Luta",
+        "ano": 1999,
+        "papel": "faixa final",
+        "cena": "Explosão dos prédios enquanto Marla e Narrador observam",
+        "tempo": "02:10:10",
+        "fonte": "Tunefind"
+      },
+      {
+        "titulo": "Sucker Punch - Mundo Surreal",
+        "ano": 2011,
+        "papel": "cover em versão coral",
+        "fonte": "Lista oficial da trilha"
+      }
+    ]
+  },
+  {
+    "tipo": "musica",
+    "termo": "Gimme Shelter",
+    "slug": "gimme-shelter",
+    "resultados": [
+      {
+        "titulo": "Os Infiltrados",
+        "ano": 2006,
+        "papel": "tema recorrente",
+        "cena": "Introduz a sequência de montagem inicial",
+        "fonte": "Tunefind"
+      },
+      {
+        "titulo": "Cassino",
+        "ano": 1995,
+        "papel": "música de transição",
+        "fonte": "Créditos oficiais"
+      }
+    ]
+  },
+  {
+    "tipo": "musica",
+    "termo": "Heroes",
+    "slug": "heroes-david-bowie",
+    "resultados": [
+      {
+        "titulo": "As Vantagens de Ser Invisível",
+        "ano": 2012,
+        "papel": "cena do túnel",
+        "cena": "Charlie e amigos atravessam o túnel com a música no auge",
+        "fonte": "Tunefind"
+      },
+      {
+        "titulo": "Jojo Rabbit",
+        "ano": 2019,
+        "papel": "versão em alemão nos créditos",
+        "fonte": "Trilha oficial"
+      }
+    ]
+  },
+  {
+    "tipo": "musica",
+    "termo": "Immigrant Song",
+    "slug": "immigrant-song",
+    "resultados": [
+      {
+        "titulo": "Thor: Ragnarok",
+        "ano": 2017,
+        "papel": "tema de batalha",
+        "cena": "Thor luta na ponte de Bifrost",
+        "fonte": "Tunefind"
+      }
+    ]
+  },
+  {
+    "tipo": "musica",
+    "termo": "Lose Yourself",
+    "slug": "lose-yourself",
+    "resultados": [
+      {
+        "titulo": "8 Mile",
+        "ano": 2002,
+        "papel": "tema principal",
+        "cena": "B-Rabbit se prepara para a última batalha de rimas",
+        "fonte": "Academy Awards"
+      }
+    ]
+  },
+  {
+    "tipo": "musica",
+    "termo": "Creep",
+    "slug": "creep-radiohead",
+    "resultados": [
+      {
+        "titulo": "A Rede Social",
+        "ano": 2010,
+        "papel": "cover coral",
+        "cena": "Trailer oficial e montagem inicial",
+        "fonte": "Créditos oficiais"
+      }
+    ]
+  },
+  {
+    "tipo": "musica",
+    "termo": "Johnny B. Goode",
+    "slug": "johnny-b-goode",
+    "resultados": [
+      {
+        "titulo": "De Volta para o Futuro",
+        "ano": 1985,
+        "papel": "performance escolar",
+        "cena": "Marty McFly toca no baile Encanto Submarino",
+        "fonte": "Tunefind"
+      }
+    ]
+  },
+  {
+    "tipo": "musica",
+    "termo": "The Sound of Silence",
+    "slug": "the-sound-of-silence",
+    "resultados": [
+      {
+        "titulo": "O Graduado",
+        "ano": 1967,
+        "papel": "tema recorrente",
+        "cena": "Benjamin dirige em silêncio após reencontro",
+        "fonte": "Créditos oficiais"
+      },
+      {
+        "titulo": "Watchmen",
+        "ano": 2009,
+        "papel": "cena do funeral",
+        "fonte": "Tunefind"
+      }
+    ]
+  },
+  {
+    "tipo": "artista",
+    "termo": "Queen",
+    "slug": "queen",
+    "resultados": [
+      {
+        "titulo": "Bohemian Rhapsody",
+        "ano": 2018,
+        "papel": "biografia musical",
+        "fonte": "Créditos oficiais"
+      },
+      {
+        "titulo": "Wayne's World",
+        "ano": 1992,
+        "papel": "cena icônica do carro",
+        "fonte": "Tunefind"
+      }
+    ]
+  },
+  {
+    "tipo": "artista",
+    "termo": "Daft Punk",
+    "slug": "daft-punk",
+    "resultados": [
+      {
+        "titulo": "Tron: O Legado",
+        "ano": 2010,
+        "papel": "trilha sonora original",
+        "cena": "Cena do clube End of Line",
+        "fonte": "Créditos oficiais"
+      }
+    ]
+  },
+  {
+    "tipo": "artista",
+    "termo": "Adele",
+    "slug": "adele",
+    "resultados": [
+      {
+        "titulo": "007 - Operação Skyfall",
+        "ano": 2012,
+        "papel": "tema principal",
+        "cena": "Sequência de abertura com créditos animados",
+        "fonte": "Academy Awards"
+      }
+    ]
+  },
+  {
+    "tipo": "artista",
+    "termo": "Bob Dylan",
+    "slug": "bob-dylan",
+    "resultados": [
+      {
+        "titulo": "Forrest Gump",
+        "ano": 1994,
+        "papel": "música de época",
+        "cena": "Jenny toca violão no clube",
+        "fonte": "Tunefind"
+      },
+      {
+        "titulo": "Os Suspeitos",
+        "ano": 1995,
+        "papel": "cena final (cover)",
+        "fonte": "Créditos oficiais"
+      }
+    ]
+  },
+  {
+    "tipo": "artista",
+    "termo": "The Rolling Stones",
+    "slug": "the-rolling-stones",
+    "resultados": [
+      {
+        "titulo": "Os Bons Companheiros",
+        "ano": 1990,
+        "papel": "trilha licenciada",
+        "fonte": "Tunefind"
+      },
+      {
+        "titulo": "Os Infiltrados",
+        "ano": 2006,
+        "papel": "Gimme Shelter nas transições",
+        "fonte": "Tunefind"
+      }
+    ]
+  },
+  {
+    "tipo": "musica",
+    "termo": "Moon River",
+    "slug": "moon-river",
+    "resultados": [
+      {
+        "titulo": "Bonequinha de Luxo",
+        "ano": 1961,
+        "papel": "tema principal",
+        "cena": "Holly canta na janela",
+        "fonte": "Créditos oficiais"
+      }
+    ]
+  },
+  {
+    "tipo": "musica",
+    "termo": "Shallow",
+    "slug": "shallow",
+    "resultados": [
+      {
+        "titulo": "Nasce uma Estrela",
+        "ano": 2018,
+        "papel": "dueto principal",
+        "cena": "Ally sobe ao palco para cantar com Jackson",
+        "fonte": "Créditos oficiais"
+      }
+    ]
+  },
+  {
+    "tipo": "musica",
+    "termo": "This Is Me",
+    "slug": "this-is-me",
+    "resultados": [
+      {
+        "titulo": "O Rei do Show",
+        "ano": 2017,
+        "papel": "número musical",
+        "cena": "Lettie lidera o grupo pelo picadeiro",
+        "fonte": "Créditos oficiais"
+      }
+    ]
+  },
+  {
+    "tipo": "artista",
+    "termo": "Hans Zimmer",
+    "slug": "hans-zimmer",
+    "resultados": [
+      {
+        "titulo": "Interestelar",
+        "ano": 2014,
+        "papel": "compositor",
+        "fonte": "Créditos oficiais"
+      },
+      {
+        "titulo": "Duna",
+        "ano": 2021,
+        "papel": "compositor",
+        "fonte": "Créditos oficiais"
+      }
+    ]
+  },
+  {
+    "tipo": "musica",
+    "termo": "Eye of the Tiger",
+    "slug": "eye-of-the-tiger",
+    "resultados": [
+      {
+        "titulo": "Rocky III",
+        "ano": 1982,
+        "papel": "montagem de treino",
+        "fonte": "Créditos oficiais"
+      }
+    ]
+  },
+  {
+    "tipo": "musica",
+    "termo": "Kiss From a Rose",
+    "slug": "kiss-from-a-rose",
+    "resultados": [
+      {
+        "titulo": "Batman Eternamente",
+        "ano": 1995,
+        "papel": "tema dos créditos",
+        "fonte": "Trilha oficial"
+      }
+    ]
+  }
+]
