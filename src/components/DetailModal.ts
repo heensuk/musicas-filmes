@@ -29,6 +29,26 @@ export function createDetailModal(): DetailModal {
   const list = document.createElement("div");
   list.className = "detail-modal__list";
 
+  function close() {
+    overlay.hidden = true;
+    document.body.style.overflow = "";
+    document.removeEventListener("keydown", handleKeyDown);
+  }
+
+  function handleKeyDown(event: KeyboardEvent) {
+    if (event.key === "Escape" && !overlay.hidden) {
+      close();
+    }
+  }
+
+  const open = (entry: EntradaMusical) => {
+    heading.textContent = `${entry.termo} • ${entry.resultados.length} aparições`;
+    list.replaceChildren(...entry.resultados.map(createMovieCard));
+    overlay.hidden = false;
+    document.body.style.overflow = "hidden";
+    document.addEventListener("keydown", handleKeyDown);
+  };
+
   closeButton.addEventListener("click", () => close());
   overlay.addEventListener("click", (event) => {
     if (event.target === overlay) {
@@ -38,18 +58,6 @@ export function createDetailModal(): DetailModal {
 
   dialog.append(closeButton, heading, list);
   overlay.appendChild(dialog);
-
-  const close = () => {
-    overlay.hidden = true;
-    document.body.style.overflow = "";
-  };
-
-  const open = (entry: EntradaMusical) => {
-    heading.textContent = `${entry.termo} • ${entry.resultados.length} aparições`;
-    list.replaceChildren(...entry.resultados.map(createMovieCard));
-    overlay.hidden = false;
-    document.body.style.overflow = "hidden";
-  };
 
   return { element: overlay, open, close };
 }

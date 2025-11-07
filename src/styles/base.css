@@ -301,6 +301,10 @@ body {
   z-index: 999;
 }
 
+.detail-modal[hidden] {
+  display: none;
+}
+
 .detail-modal__dialog {
   background: #0d0f14;
   border-radius: 1rem;
